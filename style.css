@@ -3,7 +3,9 @@
     background-color: #BF9515;
     color: #FFFFFF;
   }
-
+  body {
+    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+}
   nav {
   background-color: hsl(180, 80%, 25%);
   }
