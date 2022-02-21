@@ -10,6 +10,9 @@
   top: 50px;
   z-index: 1;
 }
+button {
+  background-color: FF790E;
+}
 
 /* Color Theme Swatches in Hex */
 .waving-colorful-flag-of-sweden.-1-hex { color: #082640; }
