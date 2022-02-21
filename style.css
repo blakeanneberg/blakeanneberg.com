@@ -1,10 +1,10 @@
 .first {
-  background-color: #082640;
+  background-color: #BF9515;
   position: absolute;
   z-index: 2;
 }
 .second {
-  background-color: #1F5373;
+  background-color: #F2C53D;
   position: absolute;
   left: 40px;
   top: 50px;
