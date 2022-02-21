@@ -4,10 +4,10 @@
     color: #FFFFFF;
   }
   body {
-    background: linear-gradient(90deg, red, yellow, rgb(204, 204, 255));
+    background: linear-gradient(90deg, #b1967B, rgb(204, 204, 255), #1b242b);
 }
   nav {
-  background-color: hsl(180, 80%, 25%);
+  background-color:#6E7E40; 
   }
 
   h1 {
@@ -31,12 +31,12 @@
   }
 
 .first {
-  background-color: #BF9515;
+  background-color: #607846;
   /* position: absolute;
   z-index: 2; */
 }
 .second {
-  background-color: #F2C53D;
+  background-color: #425738;
   /* position: absolute;
   left: 40px;
   top: 50px;
