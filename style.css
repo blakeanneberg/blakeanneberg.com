@@ -30,15 +30,15 @@
 
 .first {
   background-color: #BF9515;
-  position: absolute;
-  z-index: 2;
+  /* position: absolute;
+  z-index: 2; /*
 }
 .second {
   background-color: #F2C53D;
-  position: absolute;
+  /* position: absolute;
   left: 40px;
   top: 50px;
-  z-index: 1;
+  z-index: 1; */
 }
 button {
   background-color: #A66F08;
