@@ -1,12 +1,33 @@
 .first {
-  background-color: red;
+  background-color: #082640;
   position: absolute;
   z-index: 2;
 }
 .second {
-  background-color: blue;
+  background-color: #1F5373;
   position: absolute;
   left: 40px;
   top: 50px;
   z-index: 1;
 }
+
+/* Color Theme Swatches in Hex */
+.waving-colorful-flag-of-sweden.-1-hex { color: #082640; }
+.waving-colorful-flag-of-sweden.-2-hex { color: #1F5373; }
+.waving-colorful-flag-of-sweden.-3-hex { color: #BF9515; }
+.waving-colorful-flag-of-sweden.-4-hex { color: #F2C53D; }
+.waving-colorful-flag-of-sweden.-5-hex { color: #A66F08; }
+
+/* Color Theme Swatches in RGBA */
+.waving-colorful-flag-of-sweden.-1-rgba { color: rgba(7, 37, 63, 1); }
+.waving-colorful-flag-of-sweden.-2-rgba { color: rgba(30, 82, 114, 1); }
+.waving-colorful-flag-of-sweden.-3-rgba { color: rgba(191, 148, 21, 1); }
+.waving-colorful-flag-of-sweden.-4-rgba { color: rgba(242, 196, 60, 1); }
+.waving-colorful-flag-of-sweden.-5-rgba { color: rgba(165, 110, 8, 1); }
+
+/* Color Theme Swatches in HSLA */
+.waving-colorful-flag-of-sweden.-1-hsla { color: hsla(208, 78, 14, 1); }
+.waving-colorful-flag-of-sweden.-2-hsla { color: hsla(202, 57, 28, 1); }
+.waving-colorful-flag-of-sweden.-3-hsla { color: hsla(45, 80, 41, 1); }
+.waving-colorful-flag-of-sweden.-4-hsla { color: hsla(45, 87, 59, 1); }
+.waving-colorful-flag-of-sweden.-5-hsla { color: hsla(39, 90, 34, 1); }
