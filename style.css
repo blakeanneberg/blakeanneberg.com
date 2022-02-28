@@ -9,13 +9,13 @@
   nav {
   background-color:#6E7E40; 
   padding: 10px;
-
 }
   h1 {
     text-indent: 10px;
     padding-top: 10px;
+    font:italic;
+    
   }
-
   nav ul {
     margin: 0px;
     padding: 5px 0px 5px 30px;
