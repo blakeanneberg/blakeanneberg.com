@@ -79,22 +79,22 @@ button {
   }
 
   .star-3 {
-    margin-top: 35%;
-    margin-left: 35%;
+    margin-top: 20%;
+    margin-left: 22%;
     animation-name: twinkle-1;
     animation-duration: .3s;
   }
 
   .star-4 {
-    margin-top: 44%;
-    margin-left: 70%;
+    margin-top: 23%;
+    margin-left: 20%;
     animation-name: twinkle-2;
     animation-duration: .8s;
   }
 
   .star-5 {
-    margin-top: 70%;
-    margin-left: 25%;
+    margin-top: 27%;
+    margin-left: 16%;
     animation-name: twinkle-1;
     animation-duration: .5s;
   }
