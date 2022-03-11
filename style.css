@@ -8,14 +8,14 @@
     background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
 }
   nav {
-  background-color:#1F5373; 
+  background-color:#1F5373;
   padding: 10px;
 }
   h1 {
     text-indent: 10px;
     padding-top: 10px;
     font:italic;
-    
+
   }
   nav ul {
     margin: 0px;
@@ -65,7 +65,7 @@ button {
   }
 
   .star-1 {
-    margin-top: 15em;
+    margin-top: 40em;
     margin-left: 10em;
     animation-name: twinkle-1;
     animation-duration: 1s;
