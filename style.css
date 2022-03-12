@@ -1,20 +1,21 @@
 
   header {
-    background-color: #607846;
+    background-color: #082640;
     color: #FFFFFF;
   }
   body {
-    background: linear-gradient(90deg, #b1967B, rgb(204, 204, 255), #1b242b);
+    /* background: linear-gradient(90deg, #b1967B, rgb(204, 204, 255), #1b242b); */
+    background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
 }
   nav {
-  background-color:#6E7E40; 
+  background-color:#1F5373;
   padding: 10px;
 }
   h1 {
     text-indent: 10px;
     padding-top: 10px;
     font:italic;
-    
+
   }
   nav ul {
     margin: 0px;
@@ -32,12 +33,12 @@
   }
 
 .first {
-  background-color: #607846;
+  background-color: #F2C53D;
   /* position: absolute;
   z-index: 2; */
 }
 .second {
-  background-color: #425738;
+  background-color: #A66F08;
   /* position: absolute;
   left: 40px;
   top: 50px;
@@ -53,3 +54,72 @@ button {
 .waving-colorful-flag-of-sweden.-3-hex { color: #BF9515; }
 .waving-colorful-flag-of-sweden.-4-hex { color: #F2C53D; }
 .waving-colorful-flag-of-sweden.-5-hex { color: #A66F08; }
+
+
+  .stars {
+    background-color: white;
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    animation-iteration-count: infinite;
+  }
+
+  .star-1 {
+    margin-top: 4%;
+    margin-left: 3%;
+    animation-name: twinkle-1;
+    animation-duration: 1s;
+  }
+
+  .star-2 {
+    margin-top: 11%;
+    margin-left: 10%;
+    animation-name: twinkle-2;
+    animation-duration: .7s;
+  }
+
+  .star-3 {
+    margin-top: 24%;
+    margin-left: 23%;
+    animation-name: twinkle-1;
+    animation-duration: .3s;
+  }
+
+  .star-4 {
+    margin-top: 30%;
+    margin-left: 33%;
+    animation-name: twinkle-2;
+    animation-duration: .8s;
+  }
+
+  .star-5 {
+    margin-top: 44%;
+    margin-left: 43%;
+    animation-name: twinkle-1;
+    animation-duration: .5s;
+  }
+
+  @keyframes twinkle-1 {
+    50% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  @keyframes twinkle-2 {
+    20% {
+      transform: scale(0.5);
+      opacity: 0.5;
+    }
+  }
+
+  #back {
+    position: fixed;
+    padding: 0;
+    margin: 0;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #008000);
+  }
