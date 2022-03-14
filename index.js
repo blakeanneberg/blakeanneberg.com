@@ -21,5 +21,5 @@ if (17 <= hours && hours < 19) {//Evening
         document.write('<body style="background: #0f2027; background: -webkit-linear-gradient(to right, #0f2027, #203a43, #2c5364);  background: linear-gradient(to right, #0f2027, #203a43, #2c5364); color : white">');
         var type = "Nighttime";
     }
-    document.getElementById("time").innerHTML = `The time is ${ft} it is ${type}`;
+   // document.getElementById("time").innerHTML = `The time is ${ft} it is ${type}`;
     //CSS gradient backgrounds from https://uigradients.com
