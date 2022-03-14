@@ -6,6 +6,7 @@
   body {
     /* background: linear-gradient(90deg, #b1967B, rgb(204, 204, 255), #1b242b); */
     background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
+    font-family: "Arial";
 }
   nav {
   background-color:#1F5373;
