@@ -67,28 +67,28 @@ button {
   }
 
   .star-1 {
-    margin-top: 13vh;
+    margin-top: 5vh;
     margin-left: 50vw;
     animation-name: twinkle-1;
     animation-duration: 1s;
   }
 
   .star-2 {
-    margin-top: 11vh;
+    margin-top: 2vh;
     margin-left: 10vw;
     animation-name: twinkle-2;
     animation-duration: .7s;
   }
 
   .star-3 {
-    margin-top: 24vh;
+    margin-top: 8vh;
     margin-left: 23vw;
     animation-name: twinkle-1;
     animation-duration: .3s;
   }
 
   .star-4 {
-    margin-top: 20vh;
+    margin-top: 9vh;
     margin-left: 33vw;
     animation-name: twinkle-2;
     animation-duration: .8s;
