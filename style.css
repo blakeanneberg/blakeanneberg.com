@@ -60,8 +60,8 @@ button {
 
   .stars {
     background-color: white;
-    height: 30px;
-    width: 30px;
+    height: 23px;
+    width: 23px;
     border-radius: 50%;
     animation-iteration-count: infinite;
   }
@@ -100,6 +100,13 @@ button {
     animation-name: twinkle-1;
     animation-duration: .5s;
   }
+  .star-6 {
+    margin-top: 4vh;
+    margin-left: 15vw;
+    animation-name: twinkle-1;
+    animation-duration: .8s;
+  }
+
 
   @keyframes twinkle-1 {
     50% {
