@@ -107,6 +107,27 @@ button {
     animation-name: twinkle-2;
     animation-duration: .8s;
   }
+  .star-7 {
+    margin-top: 5vh;
+    margin-left: 5vw;
+    animation-name: twinkle-1;
+    animation-duration: 4s;
+  }
+  .star-8 {
+    margin-top: 12vh;
+    margin-left: 12vw;
+    animation-name: twinkle-2;
+    animation-duration: 6s;
+  }
+  .star-9 {
+    margin-top: 25vh;
+    margin-left: 60vw;
+    animation-name: twinkle-2;
+    animation-duration: 8s;
+  }
+
+
+
 
 
   @keyframes twinkle-1 {
