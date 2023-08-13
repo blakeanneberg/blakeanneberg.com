@@ -68,59 +68,59 @@ button {
   }
 
   .star-1 {
-    margin-top: 5vh;
+    margin-top: 1vh;
     margin-left: 50vw;
     animation-name: twinkle-1;
     animation-duration: 1s;
   }
 
   .star-2 {
-    margin-top: 2vh;
+    margin-top: 3vh;
     margin-left: 89vw;
     animation-name: twinkle-2;
     animation-duration: .7s;
   }
 
   .star-3 {
-    margin-top: 8vh;
+    margin-top: 5vh;
     margin-left: 23vw;
     animation-name: twinkle-1;
     animation-duration: .3s;
   }
 
   .star-4 {
-    margin-top: 9vh;
+    margin-top: 7vh;
     margin-left: 78vw;
     animation-name: twinkle-2;
     animation-duration: .8s;
   }
 
   .star-5 {
-    margin-top: 4vh;
+    margin-top: 9vh;
     margin-left: 60vw;
     animation-name: twinkle-1;
     animation-duration: .5s;
   }
   .star-6 {
-    margin-top: 3vh;
+    margin-top: 11vh;
     margin-left: 15vw;
     animation-name: twinkle-2;
     animation-duration: .8s;
   }
   .star-7 {
-    margin-top: 5vh;
+    margin-top: 13vh;
     margin-left: 5vw;
     animation-name: twinkle-1;
     animation-duration: 4s;
   }
   .star-8 {
-    margin-top: 12vh;
+    margin-top: 15vh;
     margin-left: 12vw;
     animation-name: twinkle-2;
     animation-duration: 6s;
   }
   .star-9 {
-    margin-top: 25vh;
+    margin-top: 17vh;
     margin-left: 60vw;
     animation-name: twinkle-2;
     animation-duration: 8s;
