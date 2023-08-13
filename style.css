@@ -1,14 +1,10 @@
-
   header {
     background-color: #082640;
     color: #FFFFFF;
   }
   body {
-    /* background: linear-gradient(90deg, #b1967B, rgb(204, 204, 255), #1b242b); */
-    background: linear-gradient(black, #000099, #66c2ff, #ffcccc, #ffeee6);
     font-family: "Arial";
-    background:radial-gradient(ellipse at center, rgba(255,254,234,1) 0%, rgba(255,254,234,1) 35%, #B7E8EB 100%);
-      overflow: hidden;
+    overflow: hidden;
 }
   nav {
   background-color:#1F5373;
@@ -48,16 +44,8 @@
   z-index: 1; */
 }
 button {
-  background-color: #A66F08;
+  background-color: #082640;
 }
-
-/* Color Theme Swatches in Hex */
-.waving-colorful-flag-of-sweden.-1-hex { color: #082640; }
-.waving-colorful-flag-of-sweden.-2-hex { color: #1F5373; }
-.waving-colorful-flag-of-sweden.-3-hex { color: #BF9515; }
-.waving-colorful-flag-of-sweden.-4-hex { color: #F2C53D; }
-.waving-colorful-flag-of-sweden.-5-hex { color: #A66F08; }
-
 
   .stars {
     background-color: white;
@@ -125,10 +113,6 @@ button {
     animation-name: twinkle-2;
     animation-duration: 8s;
   }
-
-
-
-
 
   @keyframes twinkle-1 {
     50% {
