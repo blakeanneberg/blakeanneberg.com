@@ -22,4 +22,17 @@ if (17 <= hours && hours < 19) {//Evening
         var type = "Nighttime";
     }
    // document.getElementById("time").innerHTML = `The time is ${ft} it is ${type}`;
-    //CSS gradient backgrounds from https://uigradients.com
+    //CSS gradient backgrounds from https://uigradients.localeCompare();
+    
+
+
+var toggle = document.getElementById('toggle');
+toggle.addEventListener('click', function() {
+  if (toggle.checked) {
+    document.body.classList.add('dark-mode');
+    document.body.classList.remove('light-mode');
+  } else {
+    document.body.classList.add('light-mode');
+    document.body.classList.remove('dark-mode');
+  }
+});

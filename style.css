@@ -31,6 +31,15 @@
     color: inherit;
     font-family: "Arial Black";
   }
+.light-mode {
+  background-color: white;
+  color: black;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
 
 .first {
   /* position: absolute;
