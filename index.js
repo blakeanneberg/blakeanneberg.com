@@ -1,5 +1,5 @@
 var toggle = document.getElementById('toggle');
-toggle.addEventListener('click', function() {
+toggle.addEventListener('toggle', function() {
   if (toggle.checked) {
     document.body.classList.add('dark-mode');
     document.body.classList.remove('light-mode');
